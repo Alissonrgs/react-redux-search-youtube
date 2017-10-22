@@ -13,5 +13,5 @@
 * Copy the key and put it in src/config/keys.js
 
 ```js
-export default YOUTUBE_API_KEY = '<API_KEY>';
+export const YOUTUBE_API_KEY = '<API_KEY>';
 ```
