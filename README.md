@@ -1,4 +1,6 @@
-### Getting Started
+## React YouTube Search
+
+This project is a simple searcher using the youtube api with react
 
 #### Install
 
