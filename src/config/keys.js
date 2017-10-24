@@ -1,1 +1,1 @@
-export default YOUTUBE_API_KEY = '<API_KEY>';
+export const YOUTUBE_API_KEY = '<API_KEY>';
